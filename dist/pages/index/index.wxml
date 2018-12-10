@@ -1,0 +1,6 @@
+<block>
+    <view class="index">
+        <text>Hello world!</text>
+        <div __triggerObserer="{{ _triggerObserer }}">{{element}}</div>
+    </view>
+</block>
